@@ -1,0 +1,14 @@
+------------------------------------------------------------
+  Release Notes for Transform SWF for Java, Version 2.0.3. 
+------------------------------------------------------------
+ 
+This release is the first where the code is covered using the Berkeley 
+Software Distribution (BSD) License. Previous releases were covered with a 
+commercial license.
+
+Previously the framework was released in a series of editions: SWF5, SWF6, 
+SWF7 &amp; Eval - one for each "recent" version of Flash and a free Evaluation 
+edition which supported Flash 1, respectively. The editions have been dropped 
+and the current code base contains all of the classes required to support Flash 
+7 (MX 2004). The framework is backwards compatible allowing files corresponding
+to earlier versions of Flash to be generated.
